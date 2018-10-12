@@ -8,6 +8,11 @@ vendor/*
 web/uploads/*
 web/bundles/*
 
+# Intellj
+*/.idea/*
+*.iml
+
+
 # Configuration files
 app/config/parameters.ini
 app/config/parameters.yml
