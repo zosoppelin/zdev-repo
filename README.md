@@ -8,10 +8,17 @@ java Programa Motorcycle Car
  La salida deberia ser algo asi:
 
 Me llamo Car y soy una moto que está acelerando
+
 Me llamo Car y soy una moto que está acelerando
+
 Me llamo Car y soy una moto que está frenando
+
 Campo 'name': Car
+
 Voy ejecutar el método: 'speedUp'
+
 Me llamo Car y soy una moto que está acelerando
+
 Voy ejecutar el método: 'brake'
+
 Me llamo Car y soy una moto que está frenando
