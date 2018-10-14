@@ -9,7 +9,7 @@ web/uploads/*
 web/bundles/*
 
 # Intellj
-.idea/*
+java/reflexion/.idea
 *.iml
 */out/*
 
