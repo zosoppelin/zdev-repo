@@ -15,6 +15,3 @@ Pasos:
 La salida de la peticion anterior deberia ser el siguiente JSON:
 
 {"id":80,"nombre":"MacBook Pro 15","precio":195000.0}
-
-
-
