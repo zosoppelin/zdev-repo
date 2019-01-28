@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" filepath="$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-clientegreeting/microservice-clientegreeting.iml" filepath="$PROJECT_DIR$/microservice-clientegreeting/microservice-clientegreeting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-greeting/microservice-greeting.iml" filepath="$PROJECT_DIR$/microservice-greeting/microservice-greeting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-registration/microservice-registration.iml" filepath="$PROJECT_DIR$/microservice-registration/microservice-registration.iml" />
+    </modules>
+  </component>
+</project>
